@@ -17,7 +17,6 @@ tags:
 | [rido-beautiful-jekyll](https://AburridoCode.github.io/rido-beautiful-jekyll/) (B) 				 | 🛹 Jugando con :: Beautiful Jekyll ✨ Build a beautiful and simple website in literally minutes. |
 | [rido-contrast](https://AburridoCode.github.io/rido-contrast/) 					 | 🛹 Jugando con :: Contrast Jekyll Theme |
 | [rido-dasper](https://AburridoCode.github.io/rido-dasper/) 										 | 🛹 Jugando con :: Dasper A Jekyll Theme |
-| [rido-end2end](https://AburridoCode.github.io/rido-end2end/) 									 | 🛹 Jugando con :: end2end - 💎 Clean Jekyll theme |
 | [rido-mm](https://AburridoCode.github.io/rido-mm/) 												 | Jugando con :: Minimal Mistakes GitHub Pages site starter |
 | [rido-minimal-mistakes](https://AburridoCode.github.io/rido-minimal-mistakes/) 					 | Jugando con :: 📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio. |
 | [rido-so-simple-theme](https://AburridoCode.github.io/rido-so-simple-theme/) (B) 				 | 🛹 Jugando con :: so-simple-theme -- A simple Jekyll theme for words and pictures. |
