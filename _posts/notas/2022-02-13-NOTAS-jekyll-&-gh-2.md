@@ -13,7 +13,7 @@ tags:
 
 | Repositorio                  | Descripción                  |
 |------------------------------|------------------------------|
-| [rido-alembic](https://justhector.github.io/rido-alembic/) 									 | 🛹 Jugando con :: ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website |
+| [rido-alembic](https://AburridoCode.github.io/rido-alembic/) 									 | 🛹 Jugando con :: ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website |
 | [rido-beautiful-jekyll](https://justhector.github.io/rido-beautiful-jekyll/) (B) 				 | 🛹 Jugando con :: Beautiful Jekyll ✨ Build a beautiful and simple website in literally minutes. |
 | [rido-contrast-master](https://justhector.github.io/rido-contrast-master/) 					 | 🛹 Jugando con :: Contrast Jekyll Theme |
 | [rido-dasper](https://justhector.github.io/rido-dasper/) 										 | 🛹 Jugando con :: Dasper A Jekyll Theme |
