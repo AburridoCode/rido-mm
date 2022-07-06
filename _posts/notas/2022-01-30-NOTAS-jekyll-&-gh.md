@@ -16,7 +16,7 @@ tags:
 |  |  |  |
 | rido-alembic | 🛹 Jugando con :: ⚗️ A Jekyll boilerplate theme designed to be a starting point for any Jekyll website | [https://AburridoCode.github.io/rido-alembic/](https://AburridoCode.github.io/rido-alembic/) |
 | rido-beautiful-jekyll | 🛹 Jugando con :: Beautiful Jekyll ✨ Build a beautiful and simple website in literally minutes. | [https://AburridoCode.github.io/rido-beautiful-jekyll/](https://AburridoCode.github.io/rido-beautiful-jekyll/) |
-| rido-contrast-master | 🛹 Jugando con :: Contrast Jekyll Theme | [https://AburridoCode.github.io/rido-contrast-master/](https://AburridoCode.github.io/rido-contrast-master/) |
+| rido-contrast | 🛹 Jugando con :: Contrast Jekyll Theme | [https://AburridoCode.github.io/rido-contrast/](https://AburridoCode.github.io/rido-contrast/) |
 | rido-dasper | 🛹 Jugando con :: Dasper A Jekyll Theme | [https://AburridoCode.github.io/rido-dasper/](https://AburridoCode.github.io/rido-dasper/) |
 | rido-end2end | 🛹 Jugando con :: end2end - 💎 Clean Jekyll theme | [https://AburridoCode.github.io/rido-end2end/](https://AburridoCode.github.io/rido-end2end/) |
 |  |  |  |
